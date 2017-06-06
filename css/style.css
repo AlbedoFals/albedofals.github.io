@@ -525,6 +525,12 @@ body {
 #header-title .my-socials li .weibo {
   background-color: #e20021;
 }
+#header-title .my-socials li .twitter {
+  background-color: #333;
+}
+#header-title .my-socials li .facebook {
+  background-color: #333;
+}
 #header-title .my-socials li .email {
   background-color: #3369e8;
 }
